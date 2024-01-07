@@ -1,0 +1,2860 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1745,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "58FZEAAAQBAJ",
+      "etag": "qj0NkKYZx6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/58FZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Todo lo que hay que saber de Arqueología",
+        "subtitle": "Una introducción a la ciencia del pasado",
+        "authors": [
+          "Vicente Barba Colmenero & Alberto Fernández Ordóñez"
+        ],
+        "publisher": "Pinolia",
+        "publishedDate": "2022-01-19",
+        "description": "Esta es una obra de arqueología para aquellos que no tienen ni idea de arqueología. ¿Alguna vez te has preguntado cómo vivieron las civilizaciones antiguas? ¿Qué ropa usaban o qué objetos tenían? ¿Qué sabes de la maldición de Tutankamón? ¿Estás seguro que los romanos construyeron ese puente en tu pueblo? ¿Qué tienen que ver los dinosaurios y la arqueología? ¿Crees que todos los profesores de arqueología usan sombrero fedora, látigo y se pelean a puñetazos contra soldados nazis? La respuesta a todas estas preguntas, y muchas más, la podrás encontrar entre las siguientes páginas. Desde una firme base científica y con la experiencia acumulada de los autores, dos arqueólogos con muchas excavaciones a sus espaldas, descubriremos que la arqueología es mucho más entretenida y alocada de lo que nos imaginábamos. Mediante anécdotas amenas, un tono divulgativo y un humor ácido, nos sumergiremos en excavaciones arqueológicas donde encontraremos hallazgos fascinantes como huesos, palacios enterrados, sarcófagos e incluso cámaras secretas, pero también nos toparemos con coches con quince esqueletos en el maletero, un montón de cajas repletas de cráneos romanos en la terraza de un piso en Jaén o un expolio de película de una fragata española. Esta obra nos permite acercarnos a la faceta más cotidiana de una ciencia tan mitificada como desconocida.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418965173"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418965177"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=58FZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=58FZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=58FZEAAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=58FZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=58FZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29055,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 29055,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=58FZEAAAQBAJ&rdid=book-58FZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29055000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 29055000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Todo_lo_que_hay_que_saber_de_Arqueolog%C3%AD-sample-epub.acsm?id=58FZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Todo_lo_que_hay_que_saber_de_Arqueolog%C3%AD-sample-pdf.acsm?id=58FZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=58FZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta es una obra de arqueología para aquellos que no tienen ni idea de arqueología. ¿Alguna vez te has preguntado cómo vivieron las civilizaciones antiguas? ¿Qué ropa usaban o qué objetos tenían? ¿Qué sabes de la maldición de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a-NrAAAAMAAJ",
+      "etag": "ev9L0/lDepU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a-NrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Arqueología colombiana",
+        "subtitle": "ciencia, pasado y exclusión",
+        "authors": [
+          "Carl Henrik Langebaek"
+        ],
+        "publisher": "Colciencias Instituto Colombiano Para el Desarrollo de la CI",
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9588130379"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789588130378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a-NrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a-NrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=a-NrAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a-NrAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_colombiana.html?hl=&id=a-NrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a-NrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mDdnDwAAQBAJ",
+      "etag": "1nC9uqCU3Ek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mDdnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Arqueología",
+        "authors": [
+          "Alfredo González Ruibal",
+          "Xurxo Ayán Vila"
+        ],
+        "publisher": "Alianza Editorial",
+        "publishedDate": "2018-09-06",
+        "description": "Esta obra ofrece una visión real y actualizada del trabajo de los arqueólogos. Una visión que va más allá de los aspectos puramente técnicos, describiendo el pasado que producen los profesionales de la arqueología a partir de los restos materiales. Para ello, Alfredo González Ruibal y Xurxo Ayán Vila no se ciñen solo a los procesos de recogida y análisis de datos, sino que también exploran los principales temas de estudio de la disciplina, tanto los más recientes (movilidad, conflicto) como los clásicos (actividades de producción y mantenimiento, mundo funerario). No es que a los autores no les interesen las técnicas arqueométricas ¿de hecho están muy presentes a lo largo de la obra¿ sino que, al contrario que en otros libros introductorios, no será la arqueometría la que guíe el discurso, sino, sobre todo, los temas de investigación. Se ha hecho un esfuerzo para que la teoría, recogida al principio del libro, sea perfectamente accesible tanto para los estudiosos de la materia como para el gran público. Por otro lado, pretenden dejar claro el que la Arqueología es una ciencia eminentemente pública y no se entiende hoy en día sin esta dimensión, ya sea por sus implicaciones políticas (Arqueología de los derechos humanos, Arqueologías indígenas), ya sea por los debates éticos en los que se ve involucrada o por su vinculación al patrimonio. Por lo que el apartado dedicado a la relación entre arqueología y sociedad es extenso y exhaustivo. El libro se divide en cuatro grandes partes que abordan cuestiones de tipo teórico (parte I); técnicas de recuperación de datos, documentación y datación (parte II); temas de investigación (parte III); y aspectos sociales de la arqueología (parte IV). Cada uno de los capítulos en los que se dividen estas cuatro partes van profusamente ilustrados con todo tipo de fotografías, grabados, croquis, cuadros..., para facilitar la mejor comprensión de lo que los autores nos narran en este manual imprescindible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788491812364"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8491812369"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mDdnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mDdnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mDdnDwAAQBAJ&dq=arqueologia&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mDdnDwAAQBAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa.html?hl=&id=mDdnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mDdnDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Una visión que va más allá de los aspectos puramente técnicos, describiendo el pasado que producen los profesionales de la arqueología a partir de los restos materiales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xWYLAAAAYAAJ",
+      "etag": "yLuyfsIEIMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xWYLAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Elementos para una construcción teórica en arqueología",
+        "authors": [
+          "Fernando López Aguilar"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017939844"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xWYLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xWYLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xWYLAAAAYAAJ&q=arqueologia&dq=arqueologia&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xWYLAAAAYAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementos_para_una_construcci%C3%B3n_te%C3%B3ric.html?hl=&id=xWYLAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xWYLAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "crqRZPgkys8C",
+      "etag": "MEPb3r9jIhY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/crqRZPgkys8C",
+      "volumeInfo": {
+        "title": "Arqueología",
+        "authors": [
+          "Colin Renfrew",
+          "Paul Bahn"
+        ],
+        "publisher": "Ediciones AKAL",
+        "publishedDate": "2004-03-22",
+        "description": "Completo y riguroso panórama de los conceptos, métodos y prácticas sobre los que se sustenta la práctica arqueológica actual, de la excavación propiamente dicha a la interpretación de los datos, pasando por una visión histórica de la disciplina así como por las principales metodologías empleadas en nuestros días (Arqueología cognitiva, social y ambiental). Una herramienta indispensable para cualquier persona para la que la Arqueología constituya un instrumento básico de su trabajo e investigación.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8446002345"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788446002345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "6.6.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=crqRZPgkys8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=crqRZPgkys8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=crqRZPgkys8C&printsec=frontcover&dq=arqueologia&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=crqRZPgkys8C&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa.html?hl=&id=crqRZPgkys8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arqueolog%C3%ADa-sample-pdf.acsm?id=crqRZPgkys8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=crqRZPgkys8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Una herramienta indispensable para cualquier persona para la que la Arqueología constituya un instrumento básico de su trabajo e investigación."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iVVsAAAAMAAJ",
+      "etag": "4InZb11+9K4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iVVsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La arqueología, la etnografia, la historia y el arte en el Museo",
+        "subtitle": "desarrollo y proyección de las Colecciones de Museo Nacional de Colombia : memorias de la Coloquios Nacionales",
+        "authors": [
+          "Museo Nacional de Colombia"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173012312796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iVVsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iVVsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iVVsAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iVVsAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_arqueolog%C3%ADa_la_etnografia_la_histori.html?hl=&id=iVVsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iVVsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oDIYAAAAYAAJ",
+      "etag": "IqhuXcQ5dJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oDIYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Manual de arqueología colombiana",
+        "authors": [
+          "Lucía Rojas de Perdomo"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000396562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oDIYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oDIYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oDIYAAAAYAAJ&q=arqueologia&dq=arqueologia&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oDIYAAAAYAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_arqueolog%C3%ADa_colombiana.html?hl=&id=oDIYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oDIYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GngO_r30s_IC",
+      "etag": "wRKPrBbA9Bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GngO_r30s_IC",
+      "volumeInfo": {
+        "title": "Arqueología. Conceptos clave",
+        "authors": [
+          "Paul Bahn",
+          "Colin Renfrew"
+        ],
+        "publisher": "Ediciones AKAL",
+        "publishedDate": "2008-11-01",
+        "description": "Esta valiosa obra ofrece un tratamiento completo y actualizado de las ideas básicas de la arqueología, así como de su impacto sobre el método y el pensamiento arqueológicos. Con más de cincuenta epígrafes redactados por expertos de reconocido prestigio internacional, el libro define los conceptos fundamentales, explicando su origen y su desarrollo. Los epígrafes también proporcionan guías bibliográficas y abundantes referencias cruzadas. Entre los temas tratados se incluyen la arqueología del paisaje, la evolución cultural, la arqueología social, la arqueología de género, la arqueología experimental, el tiempo o la evolución multirregional. Arqueología: conceptos clave constituye una referencia imprescindible para estudiantes, profesores y cualquier persona interesada por la materia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788446025900"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8446025906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GngO_r30s_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GngO_r30s_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GngO_r30s_IC&printsec=frontcover&dq=arqueologia&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GngO_r30s_IC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_Conceptos_clave.html?hl=&id=GngO_r30s_IC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arqueolog%C3%ADa_Conceptos_clave-sample-pdf.acsm?id=GngO_r30s_IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GngO_r30s_IC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Arqueología: conceptos clave constituye una referencia imprescindible para estudiantes, profesores y cualquier persona interesada por la materia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qtSHDgAAQBAJ",
+      "etag": "NsjfspMwESo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qtSHDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Vestigios y palabras. Arqueología y Derecho del patrimonio arqueológico",
+        "authors": [
+          "Javier Barcelona Llop ",
+          "Miguel Cisneros Cunchillos"
+        ],
+        "publisher": "Ed. Universidad de Cantabria",
+        "publishedDate": "2016-12-28",
+        "description": "El trabajo arqueológico obedece a pautas metodológicas precisas, a criterios científicos que persiguen el incremento del conocimiento; ello nada tiene que ver con los saqueadores, pero tampoco con la actividad de quienes circulan por ahí buscando en sus ratos libres objetos sueltos con los que completar una colección particular que a su muerte donarán desinteresadamente a un museo local. Esta no es sólo la opinión de los autores del presente libro, sino que es la del legislador. Es verdad que las leyes parten de este presupuesto desde hace bastante tiempo, pero ha sido a raíz de la del Patrimonio Histórico Español de 1985, fecundamente secundada por las aprobadas por las comunidades autónomas, cuando el mismo ha recibido un potente e inequívoco espaldarazo normativo llamado a desterrar definitivamente del concepto de Arqueología cualquier intervención que se no se ajuste a criterios científicos y a reservar el régimen jurídico del patrimonio arqueológico a los frutos de dicha actividad. De esta forma, dos ramas del saber muy distintas entre sí, la Arqueología y el Derecho, contribuyen cada una a su manera y con sus respectivos instrumentos a racionalizar y ordenar una materia cuya importancia trasciende de la satisfacción personal pues se inscribe en el plano de lo social. Un patrimonio que está llamado en última instancia, tras haber sido documentado y estudiado, a ser objeto de fruición colectiva, a ser conocido y comprendido por la ciudadanía, que tiene derecho a acceder a él y a conocer su significado. El objetivo del presente libro es explicar, en términos escuetos y sencillos, los fundamentos científicos de la Arqueología y de la investigación arqueológica, por un lado, y los aspectos más elementales del régimen jurídico del patrimonio arqueológico, por otro. Sus evidentes límites estructurales han obligado a dejar aparcado el tratamiento de muchos aspectos que los autores consideran relevantes desde su respectiva especialidad, en beneficio de una exposición didáctica y circunscrita a lo esencial en el sentido más estricto de la palabra.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788481027921"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8481027928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qtSHDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qtSHDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qtSHDgAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qtSHDgAAQBAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vestigios_y_palabras_Arqueolog%C3%ADa_y_Dere.html?hl=&id=qtSHDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Vestigios_y_palabras_Arqueolog%C3%ADa_y_Dere-sample-pdf.acsm?id=qtSHDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qtSHDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El trabajo arqueológico obedece a pautas metodológicas precisas, a criterios científicos que persiguen el incremento del conocimiento; ello nada tiene que ver con los saqueadores, pero tampoco con la actividad de quienes circulan por ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7RzQoAEACAAJ",
+      "etag": "nZlh0f/XmlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7RzQoAEACAAJ",
+      "volumeInfo": {
+        "title": "Breve historia de la arqueología",
+        "authors": [
+          "Jorge García Sánchez"
+        ],
+        "publisher": "Ediciones Nowtilus",
+        "publishedDate": "2014-05-06",
+        "description": "Conozca la historia de la arqueología desde los primeros estudios grecorromanos hasta el radiocarbono. Una ciencia que busca desandar el camino y resolver no sólo los interrogantes sobre las raíces del ser humano sino los orígenes mismos de la civilización. Breve historia de la arqueología propone un recorrido no sólo por los grandes momentos de la arqueología, sino por el desarrollo de un pensamiento, de una metodología y de unas herramientas determinadas. Así, reflejará el despertar renacentista del clasicismo tras siglos de aletargamiento; la curiosidad dieciochesca de arrancar de la tierra las obras de arte grecorromanas; el análisis de los monumentos de Egipto, Mesopotamia o América primero de los anticuarios diletantes, después de científicos profesionales; la manipulación de la historia como política de Estado; la aplicación de los avances científicos del siglo XX en la arqueología... y muchas otras cuestiones más que la han convertido en una disciplina carismática y de enorme popularidad en nuestros tiempos. Jorge García se asoma, a lo largo de esta obra, a los manuscritos renacentistas que comenzaron a rememorar la monumentalidad de Roma; penetraremos en los túneles horadados en Pompeya y Herculano a fin de burlar la tragedia ocasionada por la erupción del Vesubio; acompañaremos a Heinrich Schliemann a las excavaciones de Troya y de Micenas, o a Arthur Evans a las de las ruinas palaciegas de la mítica Creta; redescubriremos la tumba del joven faraón Tutankhamon junto a Howard Carter y las pinturas de Altamira con Marcelino Sanz de Sautuola. Razones para comprar la obra: - El autor es un investigador y profesor de prestigio en el sector. Ha trabajado en excavaciones y yacimientos de Europa, África y Asia por lo que toda la información gráfica es inédita y propia del autor. - Esta Breve Historia desea, además de plantear la evolución cronológica e historiográfica de esta disciplina, qué pensamiento regía en cada período de esta evolución, qué metodologías empleaban, qué repercusiones sociales tenía,... - La arqueología es un tema que despierta gran interés, tiene una imagen mítica, de aventura y ha sido protagonista de novelas y películas. - En este libro tienen cabida los arqueólogos cuya labor ha sido fundamental en esta ciencia aunque su trabajo ha sido menos conocido mediáticamente. La arqueología posee un aroma aventurero y romántico, sobre todo en los siglos XVIII y XIX, del que sería imposible y negativo prescindir. Pero esta aproximación se debe realizar desde una bibliografía seria, científica y moderna, que documente las afirmaciones expuestas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8499675646"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788499675640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7RzQoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7RzQoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7RzQoAEACAAJ&dq=arqueologia&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7RzQoAEACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breve_historia_de_la_arqueolog%C3%ADa.html?hl=&id=7RzQoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7RzQoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Breve historia de la arqueología propone un recorrido no sólo por los grandes momentos de la arqueología, sino por el desarrollo de un pensamiento, de una metodología y de unas herramientas determinadas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNEgzQEACAAJ",
+      "etag": "7ESHH4cNbl8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNEgzQEACAAJ",
+      "volumeInfo": {
+        "title": "Arqueología de Colombia",
+        "subtitle": "un texto introductorio",
+        "authors": [
+          "Gerardo Reichel-Dolmatoff"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9581801278"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789581801275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YNEgzQEACAAJ&dq=arqueologia&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YNEgzQEACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_de_Colombia.html?hl=&id=YNEgzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNEgzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_h2ORAtpmaMC",
+      "etag": "q0Zdr5keZfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_h2ORAtpmaMC",
+      "volumeInfo": {
+        "title": "Arqueología",
+        "subtitle": "Restauración y conservación",
+        "authors": [
+          "Luisa Masetti Bitelli"
+        ],
+        "publisher": "Editorial NEREA",
+        "publishedDate": "2002-09-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8489569754"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788489569751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_h2ORAtpmaMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_h2ORAtpmaMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_h2ORAtpmaMC&printsec=frontcover&dq=arqueologia&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_h2ORAtpmaMC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa.html?hl=&id=_h2ORAtpmaMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arqueolog%C3%ADa-sample-pdf.acsm?id=_h2ORAtpmaMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_h2ORAtpmaMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WjUrAQAAIAAJ",
+      "etag": "JrlN9hACFIE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WjUrAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Arqueología en Latinoamérica",
+        "subtitle": "historias, formación académica y perspectivas temáticas : memorias del Primer Seminario Internacional de Arqueología Uniandes",
+        "authors": [
+          "Luis Gonzalo Jaramillo E."
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105132297685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WjUrAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WjUrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WjUrAQAAIAAJ&q=arqueologia&dq=arqueologia&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WjUrAQAAIAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_en_Latinoam%C3%A9rica.html?hl=&id=WjUrAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WjUrAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u4w6AQAAIAAJ",
+      "etag": "PPfyf5MTg8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u4w6AQAAIAAJ",
+      "volumeInfo": {
+        "title": "La arqueología y la etnohistoria",
+        "subtitle": "un encuentro andino",
+        "authors": [
+          "John R. Topic"
+        ],
+        "publishedDate": "2009",
+        "description": "Ensayos presentados en Cajamarca, del 28 al 30 de agosto del 2000, en el taller patrocinado por el Instituto de Investigaciones Andinas y donde se reunieron arqueólogos y etnohistoriadores de 5 países andinos. Con esta obra se demuestra que es necesario cruzar las fronteras de las disciplinas sociales para lograr resultados fértiles y novedosos.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105114463560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Andes Region"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u4w6AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u4w6AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u4w6AQAAIAAJ&q=arqueologia&dq=arqueologia&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u4w6AQAAIAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_arqueolog%C3%ADa_y_la_etnohistoria.html?hl=&id=u4w6AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u4w6AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ensayos presentados en Cajamarca, del 28 al 30 de agosto del 2000, en el taller patrocinado por el Instituto de Investigaciones Andinas y donde se reunieron arqueólogos y etnohistoriadores de 5 países andinos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S70axs-gOsgC",
+      "etag": "EJ+ENmiheIE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S70axs-gOsgC",
+      "volumeInfo": {
+        "title": "Diccionario de arqueología",
+        "authors": [
+          "Riccardo Francovich",
+          "Daniele Manacorda"
+        ],
+        "publisher": "Grupo Planeta (GBS)",
+        "publishedDate": "2002-01-22",
+        "description": "Los profundos cambios estructurales que la arqueología histórica ha experimentado en las últimas décadas exigen un instrumento de consulta completo y actualizado. Este volumen sintetiza, por primera vez, cuestiones teóricas y metodológicas de la investigación arqueológica de época histórica en el ámbito mediterráneo, subrayando la unidad metodológica de las disciplinas arqueológicas. Pensado y escrito desde una tradición científica italiana, para la edición en castellano de este «Diccionario» se ha realizado una revisión terminológica y de contenidos, integrando aspectos propios de la investigación arqueológica española.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484322106"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484322108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S70axs-gOsgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S70axs-gOsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=S70axs-gOsgC&printsec=frontcover&dq=arqueologia&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=S70axs-gOsgC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_de_arqueolog%C3%ADa.html?hl=&id=S70axs-gOsgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Diccionario_de_arqueolog%C3%ADa-sample-pdf.acsm?id=S70axs-gOsgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S70axs-gOsgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los profundos cambios estructurales que la arqueología histórica ha experimentado en las últimas décadas exigen un instrumento de consulta completo y actualizado."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jARsAAAAMAAJ",
+      "etag": "cUCZavX7Jgk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jARsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias del Simposio de Arqueología y Antropología Física",
+        "publishedDate": "1990*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018493514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Excavations (Archaeology)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jARsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jARsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jARsAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jARsAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_Simposio_de_Arqueolog%C3%ADa_y.html?hl=&id=jARsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jARsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OP9rAAAAMAAJ",
+      "etag": "Ad4Q8mdFmv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OP9rAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Arqueología en el suroccidente de la Sierra Nevada del Cocuy o Chita (Departamento de Boyacá)",
+        "authors": [
+          "Pablo Fernando Pérez Riaño"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173008380602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Boyacá (Boyacá, Colombia)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OP9rAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OP9rAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OP9rAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OP9rAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_en_el_suroccidente_de_la_Si.html?hl=&id=OP9rAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OP9rAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i471bRWFrcEC",
+      "etag": "5qzc7x7Mgeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i471bRWFrcEC",
+      "volumeInfo": {
+        "title": "Revista de arqueología y etnología",
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89056339328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 860,
+        "printType": "BOOK",
+        "categories": [
+          "Cuba"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i471bRWFrcEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i471bRWFrcEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i471bRWFrcEC&q=arqueologia&dq=arqueologia&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i471bRWFrcEC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revista_de_arqueolog%C3%ADa_y_etnolog%C3%ADa.html?hl=&id=i471bRWFrcEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i471bRWFrcEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PBbvAAAAMAAJ",
+      "etag": "2/dPaAxdvJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PBbvAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Introducción a la arqueología",
+        "authors": [
+          "Vere Gordon Childe"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:32000009319890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PBbvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PBbvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PBbvAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PBbvAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducci%C3%B3n_a_la_arqueolog%C3%ADa.html?hl=&id=PBbvAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PBbvAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "67u0tAEACAAJ",
+      "etag": "fmTAj9OpcGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/67u0tAEACAAJ",
+      "volumeInfo": {
+        "title": "Dos lecturas críticas",
+        "subtitle": "arqueología en Colombia",
+        "authors": [
+          "Carl Henrik Langebaek"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9589003826"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789589003824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=67u0tAEACAAJ&dq=arqueologia&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=67u0tAEACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dos_lecturas_cr%C3%ADticas.html?hl=&id=67u0tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=67u0tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "84cLAAAAYAAJ",
+      "etag": "nni3lWBBeME",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/84cLAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Arqueología, ciencia y sociedad",
+        "subtitle": "ensayo sobre teoría arqueológica y la formación económico social tribal en Venezuela",
+        "authors": [
+          "Iraida Vargas Arenas"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017981330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=84cLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=84cLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=84cLAAAAYAAJ&q=arqueologia&dq=arqueologia&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=84cLAAAAYAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_ciencia_y_sociedad.html?hl=&id=84cLAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=84cLAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SkgMllIVNp4C",
+      "etag": "kaHjmOly48k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SkgMllIVNp4C",
+      "volumeInfo": {
+        "title": "Personalidades y dilemas en la arqueología ecuatoriana",
+        "authors": [
+          "Betty Jane Meggers",
+          "Echeverría Almeida Echeverría A."
+        ],
+        "publisher": "Editorial Abya Yala",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9978042067"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789978042069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeologists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SkgMllIVNp4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SkgMllIVNp4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SkgMllIVNp4C&printsec=frontcover&dq=arqueologia&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SkgMllIVNp4C&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Personalidades_y_dilemas_en_la_arqueolog.html?hl=&id=SkgMllIVNp4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Personalidades_y_dilemas_en_la_arqueolog-sample-pdf.acsm?id=SkgMllIVNp4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SkgMllIVNp4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pRwAYIqsOo8C",
+      "etag": "OgOI/TNn/jw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pRwAYIqsOo8C",
+      "volumeInfo": {
+        "title": "Problemáticas de la arqueología contemporánea",
+        "authors": [
+          "Antonio G. Austral",
+          "Marcela Tamagnini"
+        ],
+        "publisher": "Irish Roots Cafe",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9506654042"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789506654047"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Archaeology"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pRwAYIqsOo8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pRwAYIqsOo8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pRwAYIqsOo8C&dq=arqueologia&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pRwAYIqsOo8C&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Problem%C3%A1ticas_de_la_arqueolog%C3%ADa_contem.html?hl=&id=pRwAYIqsOo8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pRwAYIqsOo8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e9iOGSKYSIEC",
+      "etag": "sX0pgi6IGBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e9iOGSKYSIEC",
+      "volumeInfo": {
+        "title": "Arqueología básica",
+        "authors": [
+          "Clive Gamble"
+        ],
+        "publisher": "Grupo Planeta (GBS)",
+        "publishedDate": "2002-10",
+        "description": "Este libro no es un manual al uso. Su propósito es incitarte a reflexionar sobre uno de los temas más importantes y fascinantes: la investigación delpasado de los seres humanos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8434466791"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788434466791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e9iOGSKYSIEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e9iOGSKYSIEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e9iOGSKYSIEC&printsec=frontcover&dq=arqueologia&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e9iOGSKYSIEC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_b%C3%A1sica.html?hl=&id=e9iOGSKYSIEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arqueolog%C3%ADa_b%C3%A1sica-sample-pdf.acsm?id=e9iOGSKYSIEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e9iOGSKYSIEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este libro no es un manual al uso. Su propósito es incitarte a reflexionar sobre uno de los temas más importantes y fascinantes: la investigación delpasado de los seres humanos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBpXAgAAQBAJ",
+      "etag": "71LWU7qT4gw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBpXAgAAQBAJ",
+      "volumeInfo": {
+        "title": "La arqueología a tu alcance",
+        "authors": [
+          "Raphael de Filippo"
+        ],
+        "publisher": "Grupo Planeta Spain",
+        "publishedDate": "2013-11-07",
+        "description": "Una fascinante y didáctica introducción a la arqueología. El pasado está presente en todas partes, bajo nuestros pies y en los rincones más insignificantes de la tierra, pero nadie es realmente consciente de ello. Sin embargo, con el paso del tiempo, las huellas de la vida humana se han ido superponiendo en capas sucesivas. El estudio de estos vestigios ya ha permitido a los arqueólogos hacer descubrimientos muy importantes sobre la vida de los hombres del pasado y sobre los cambios climáticos que han modificado el planeta. Del terreno al laboratorio, la arqueología reconstituye el pasado para permitirnos abordar mejor el futuro.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497547277"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8497547276"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EBpXAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EBpXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EBpXAgAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EBpXAgAAQBAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_arqueolog%C3%ADa_a_tu_alcance.html?hl=&id=EBpXAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/La_arqueolog%C3%ADa_a_tu_alcance-sample-epub.acsm?id=EBpXAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/La_arqueolog%C3%ADa_a_tu_alcance-sample-pdf.acsm?id=EBpXAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBpXAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Una fascinante y didáctica introducción a la arqueología. El pasado está presente en todas partes, bajo nuestros pies y en los rincones más insignificantes de la tierra, pero nadie es realmente consciente de ello."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jby-DAAAQBAJ",
+      "etag": "jWJ57pxLJ5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jby-DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Historia, arqueología y arte prehispánico",
+        "authors": [
+          "Román Piña Chan"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2015-12-08",
+        "description": "Román Piña Chan apuesta por la conciliación de disciplinas y combina el conocimiento arqueológico con el análisis del testimonio de uno de los informantes de fray Bernardino de Sahagún, el cual incluye hechos de gran relevancia para la historia del Altiplano Central de México.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071634207"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071634202"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 133,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jby-DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jby-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jby-DAAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jby-DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jby-DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 23876,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 23876,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jby-DAAAQBAJ&rdid=book-jby-DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 23876000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 23876000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Historia_arqueolog%C3%ADa_y_arte_prehisp%C3%A1ni-sample-epub.acsm?id=jby-DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Historia_arqueolog%C3%ADa_y_arte_prehisp%C3%A1ni-sample-pdf.acsm?id=jby-DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jby-DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Román Piña Chan apuesta por la conciliación de disciplinas y combina el conocimiento arqueológico con el análisis del testimonio de uno de los informantes de fray Bernardino de Sahagún, el cual incluye hechos de gran relevancia para ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6PARzwEACAAJ",
+      "etag": "UFw9fti4zgU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6PARzwEACAAJ",
+      "volumeInfo": {
+        "title": "Arqueología de Colombia",
+        "subtitle": "un texto introductorio",
+        "authors": [
+          "Gerardo Reichel-Dolmatoff"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9581801278"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789581801275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6PARzwEACAAJ&dq=arqueologia&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6PARzwEACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_de_Colombia.html?hl=&id=6PARzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6PARzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IjZtEAAAQBAJ",
+      "etag": "/lO+Fa06j3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IjZtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Conquista y pérdida de Yucatán:",
+        "subtitle": "la arqueología estadounidense en el “Área Maya” y el Estado nacional mexicano, 1875-1940",
+        "authors": [
+          "Guillermo Palacios"
+        ],
+        "publisher": "El Colegio de Mexico AC",
+        "publishedDate": "2021-10-06",
+        "description": "Este libro trata de las expediciones arqueológicas a la península de Yucatán que fueron financiadas por fondos estadounidenses a partir de los años ochenta del siglo XIX en particular aquéllas oriundas del área Cambridge-Boston, luego continuadas, entre 1923 y 1940, por la Carnegie Institution de Washington, bajo el parteaguas de la “arqueología científica”. El argumento base que postula esta investigación es que la construcción geográfica y conceptual del “Área Maya”, iniciada por un grupo de anticuarios-coleccionistas y empresarios académicos del área de Boston-Cambridge, fue fundamental para el desarrollo de la arqueología (y la antropología) en Estados Unidos. La publicación de un libro que narraba las exportaciones a Harvard de especímenes arqueológicos retirados del fondo del Cenote Sagrado de Chichén Itzá por el excónsul estadounidense Edward H. Thompson, que coincidió con la pugna del gobierno del general Calles con el de Estados Unidos, provocó un terremoto político que cerró los espacios para la arqueología estadounidense en México, en momentos en los que la Segunda Guerra Mundial alteraba radicalmente las prioridades científicas de Washington.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786075643540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6075643540"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 479,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IjZtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IjZtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IjZtEAAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IjZtEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IjZtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30279,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 20590,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IjZtEAAAQBAJ&rdid=book-IjZtEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30279000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 20590000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Conquista_y_p%C3%A9rdida_de_Yucat%C3%A1n-sample-epub.acsm?id=IjZtEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Conquista_y_p%C3%A9rdida_de_Yucat%C3%A1n-sample-pdf.acsm?id=IjZtEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IjZtEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este libro trata de las expediciones arqueológicas a la península de Yucatán que fueron financiadas por fondos estadounidenses a partir de los años ochenta del siglo XIX en particular aquéllas oriundas del área Cambridge-Boston, luego ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eYOwAAAAIAAJ",
+      "etag": "3Zu/A6P5HpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eYOwAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Introducción a la arqueología de las Antillas",
+        "authors": [
+          "Ernesto E. Tabío"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4387367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Antilles, Greater"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eYOwAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eYOwAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eYOwAAAAIAAJ&q=arqueologia&dq=arqueologia&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eYOwAAAAIAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducci%C3%B3n_a_la_arqueolog%C3%ADa_de_las_A.html?hl=&id=eYOwAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eYOwAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aYf0wAEACAAJ",
+      "etag": "pFJ0utc9kdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aYf0wAEACAAJ",
+      "volumeInfo": {
+        "title": "Introducción a la arqueología",
+        "authors": [
+          "Carl-Axel Moberg"
+        ],
+        "publisher": "Catedra Ediciones",
+        "publishedDate": "1992",
+        "description": "En el centro del debate sobre Arqueología - sus objetivos y sus métodos, se encuentran cuestiones acerca de las relaciones de la arqueología con otrás disciplinas, pero en el debate, parece como si se descuidase otra óptica de gran proyección, o con frecu",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8437606446"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788437606446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aYf0wAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aYf0wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aYf0wAEACAAJ&dq=arqueologia&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aYf0wAEACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducci%C3%B3n_a_la_arqueolog%C3%ADa.html?hl=&id=aYf0wAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aYf0wAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En el centro del debate sobre Arqueología - sus objetivos y sus métodos, se encuentran cuestiones acerca de las relaciones de la arqueología con otrás disciplinas, pero en el debate, parece como si se descuidase otra óptica de gran ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MA8RAwAAQBAJ",
+      "etag": "pPq1qBZnvSQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MA8RAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Estudio de arqueologia Cartaginesa",
+        "authors": [
+          "A.V. Escudero"
+        ],
+        "publisher": "Рипол Классик",
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785880881420"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5880881423"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MA8RAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MA8RAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MA8RAwAAQBAJ&printsec=frontcover&dq=arqueologia&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MA8RAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MA8RAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19784,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 19784,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MA8RAwAAQBAJ&rdid=book-MA8RAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19784000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 19784000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Estudio_de_arqueologia_Cartaginesa-sample-pdf.acsm?id=MA8RAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MA8RAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eEcEBNHmwyoC",
+      "etag": "iSFlS8hOJDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eEcEBNHmwyoC",
+      "volumeInfo": {
+        "title": "En busca del pasado clásico",
+        "subtitle": "Una historia de la Arqueología del mundo clásico en los siglos XIX y XX",
+        "authors": [
+          "Stephen L. Dyson"
+        ],
+        "publisher": "Grupo Planeta (GBS)",
+        "publishedDate": "2008-05-31",
+        "description": "Las historias sobre el camino recorrido por las antigüedades desde su hallazgo hasta llegar a sus propietarios, sean museos o coleccionistas particulares, son a menudo tan o incluso más fascinantes que las de su propia creación. Este libro proporciona un exhaustivo relato de la historia y el desarrollo de la arqueología clásica y explica cómo y por qué objetos descubiertos en tierras lejanas enriquecen colecciones de todo el mundo. Stephen Dyson ha escrito una historia intelectual y social de la arqueología desde su emergencia como disciplina académica entre finales del XVIII y principios del XIX, hasta los años setenta del siglo XX. El libro aborda la peripecia personal y la aportación arqueológica de las grandes figuras de esta disciplina y analiza cómo el estudio de la antigüedad clásica ha estado estrechamente vinculado con el desarrollo de importantes museos de arte en Europa y Estados Unidos. “Un libro impresionante y de gran alcance... Ofrece una auténtica perspectiva internacional y es una importante contribución a la disciplina”, Richard Hingley, Universidad de Durham.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8434453525"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788434453524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eEcEBNHmwyoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eEcEBNHmwyoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eEcEBNHmwyoC&printsec=frontcover&dq=arqueologia&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eEcEBNHmwyoC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_busca_del_pasado_cl%C3%A1sico.html?hl=&id=eEcEBNHmwyoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/En_busca_del_pasado_cl%C3%A1sico-sample-pdf.acsm?id=eEcEBNHmwyoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eEcEBNHmwyoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen Dyson ha escrito una historia intelectual y social de la arqueología desde su emergencia como disciplina académica entre finales del XVIII y principios del XIX, hasta los años setenta del siglo XX. El libro aborda la peripecia ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J8gSGmkjLgIC",
+      "etag": "1oXDrWih5wg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J8gSGmkjLgIC",
+      "volumeInfo": {
+        "title": "Arqueologia y aleteiologia y otros estudios heideggerianos",
+        "authors": [
+          "Alejandro G. Vigo"
+        ],
+        "publisher": "Editorial Biblos",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9507866558"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789507866555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Ontology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J8gSGmkjLgIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J8gSGmkjLgIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J8gSGmkjLgIC&pg=PA82&dq=arqueologia&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J8gSGmkjLgIC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueologia_y_aleteiologia_y_otros_estud.html?hl=&id=J8gSGmkjLgIC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arqueologia_y_aleteiologia_y_otros_estud-sample-pdf.acsm?id=J8gSGmkjLgIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J8gSGmkjLgIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>arqueología</b> y aleteiología , en conexión con la transformación heideggeriana de la ontología tradicional , véase Estudio 5 . 27. En la formulación de este punto debo mucho , una vez más , a las excelentes observaciones de Held ( 1988 ) ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XywrYRWwAvYC",
+      "etag": "6OsfKsx+Ov4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XywrYRWwAvYC",
+      "volumeInfo": {
+        "title": "Compendio elemental de arqueología",
+        "authors": [
+          "Basilio Sebastián Castellanos de Losada"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:5317562641"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XywrYRWwAvYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XywrYRWwAvYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XywrYRWwAvYC&printsec=frontcover&dq=arqueologia&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XywrYRWwAvYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XywrYRWwAvYC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XywrYRWwAvYC&rdid=book-XywrYRWwAvYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Compendio_elemental_de_arqueolog%C3%ADa.epub?id=XywrYRWwAvYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Compendio_elemental_de_arqueolog%C3%ADa.pdf?id=XywrYRWwAvYC&hl=&output=pdf&sig=ACfU3U3VLDunTaIpvnnXs517ojNTM7QO5Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XywrYRWwAvYC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MmhuAAAAMAAJ",
+      "etag": "xZf+ve1yVjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MmhuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Patrones de asentamiento en la arqueología de Esmeraldas (Ecuador)",
+        "authors": [
+          "Mercedes Guinea Bueno"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000000556196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Ecuador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MmhuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MmhuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MmhuAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MmhuAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Patrones_de_asentamiento_en_la_arqueolog.html?hl=&id=MmhuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MmhuAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yxHiPAAACAAJ",
+      "etag": "x2bjMcfDbj0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yxHiPAAACAAJ",
+      "volumeInfo": {
+        "title": "Explorando algunos temas de arqueología",
+        "authors": [
+          "Ana M. Aguerre",
+          "José Luis Lanata"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8497840224"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497840224"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yxHiPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yxHiPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yxHiPAAACAAJ&dq=arqueologia&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yxHiPAAACAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Explorando_algunos_temas_de_arqueolog%C3%ADa.html?hl=&id=yxHiPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yxHiPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El arqueólogo tiene hoy en día diversos modos de aproximarse al estudio de los tiempos pretéritos, pero, al hacerlo, está siempre enfrentando una elección teórica y metodológica."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PeMQAAAAYAAJ",
+      "etag": "uNBmXsPr79g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PeMQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Arqueología de la educación",
+        "subtitle": "textos, indicios, monumentos : la imagen de los indios en el mundo escolar",
+        "authors": [
+          "Irina Podgorny"
+        ],
+        "publisher": "Sociedad Argentina de Antropologia",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006549746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Archaelogy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PeMQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PeMQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PeMQAAAAYAAJ&q=arqueologia&dq=arqueologia&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PeMQAAAAYAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_de_la_educaci%C3%B3n.html?hl=&id=PeMQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PeMQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C2jNc7YX3XUC",
+      "etag": "P0Uiu+W4ffM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C2jNc7YX3XUC",
+      "volumeInfo": {
+        "title": "Arqueología y sociedad",
+        "authors": [
+          "Luis Guillermo Lumbreras",
+          "Enrique González Carré",
+          "Carlos del Águila"
+        ],
+        "publisher": "Instituto de Estudios peruanos",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "997251126X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789972511264"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Andes Region"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C2jNc7YX3XUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C2jNc7YX3XUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C2jNc7YX3XUC&dq=arqueologia&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C2jNc7YX3XUC&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueolog%C3%ADa_y_sociedad.html?hl=&id=C2jNc7YX3XUC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C2jNc7YX3XUC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F7MRAQAAIAAJ",
+      "etag": "OTikzYk/Y1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F7MRAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Prehistoria y arqueología",
+        "authors": [
+          "José Luis Lorenzo"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105000348297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Anthropology, Prehistoric"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F7MRAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F7MRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F7MRAQAAIAAJ&q=arqueologia&dq=arqueologia&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F7MRAQAAIAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prehistoria_y_arqueolog%C3%ADa.html?hl=&id=F7MRAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F7MRAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jOlrAAAAMAAJ",
+      "etag": "5+UITqul/3Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jOlrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Sed non satiata",
+        "subtitle": "teoría social en la arqueología latinoamericana contemporánea",
+        "authors": [
+          "Andrés Zarankin",
+          "Félix A. Acuto"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006576137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "América Latina"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jOlrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jOlrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jOlrAAAAMAAJ&q=arqueologia&dq=arqueologia&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jOlrAAAAMAAJ&dq=arqueologia&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sed_non_satiata.html?hl=&id=jOlrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jOlrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
